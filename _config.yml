@@ -32,7 +32,7 @@ slogan        : 'A Minimalistic Jekyll Theme'
 
 
 # Build settings
-url           : 'https://phlow.github.io/simplicity'
+url           : 'https://abhang.github.io/abhangblog'
 baseurl       : ''
 markdown      : kramdown
 highlighter   : rouge
@@ -121,7 +121,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: false  # Hide metadata for all pages
       comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for pages
+      author: 'Abhang Mehendale'     # Default author for pages
   -
     scope:
       path: ''
@@ -130,7 +130,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: true   # Show metadata for all posts
       comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for posts
+      author: 'Abhang Mehendale'     # Default author for posts
 
 
 
@@ -216,9 +216,9 @@ sass:
 # _/includes/_4_footer.html.
 
 socialmedia:
-    youtube: PhlowMedia
-    github: phlow
-    twitter: phlow
+    youtube: AbhangMehendale
+    github: abhangmehendale
+    twitter: abhangmehendale
     # facebook: phlow.media
     # soundcloud: phlow
     # tumblr: motizen
