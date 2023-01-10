@@ -15,7 +15,6 @@ title: "What did I learn from keeping away my phone?"
 
 There are lots of great themes for Jekyll to start a new blog, portfolio or website. Either these themes are bloated because they use Bootstrap, Foundation, jQuery or they are so minimal, that it doesn't make fun to use them.
 
-{% include ad_article %}
 
 ## Speed
 
@@ -25,7 +24,7 @@ There are lots of great themes for Jekyll to start a new blog, portfolio or webs
 
 ## Customization
 
-When I built my first official theme called [*Feeling Responsive*][1] I wanted to built a flexible site built on-top of Foundation. The main goal was to deliver a theme to produce high quality site. I use it for my clients and it works fine. *Simplicity* benefits from this. **But** I wanted and needed a blog which is even fast without unnecessary clutter and foremost *no Javascript*.
+When I built my first official theme called [*Feeling Responsive*][1] I wanted to built a flexible site built on-top of Foundation. The main goal was to deliver a theme to produce high quality site. [I use it for][2] my clients and it works fine. *Simplicity* benefits from this. **But** I wanted and needed a blog which is even fast without unnecessary clutter and foremost *no Javascript*.
 
 
 
@@ -68,8 +67,8 @@ And refine it with a caption and/or link if needed:
 
 
 
- [1]: http://phlow.github.io/feeling-responsive/
- [2]: #
+ [1]: http://abhang.github.io/abhangblog/
+ [2]: http://abhang.github.io/
  [3]: #
  [4]: #
  [5]: #
