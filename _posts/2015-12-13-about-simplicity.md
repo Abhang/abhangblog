@@ -1,6 +1,6 @@
 ---
-subheadline: About this Theme
-title: "What's special about <em>Simplicity</em>?"
+subheadline: Excel in Life!
+title: "What did I learn from keeping away my phone?"
 ---
 ***Simplicity…***<br>
 **…delivers your site fast.** No Javascript/jQuery needed.<br>
