@@ -8,11 +8,11 @@ caption: 'Are we killing real expression?'
 # caption_url: ''
 ---
 
-<!--more-->
+
 
 <a href="{{ "/" | absolute_url }}"><img class="center" src="https://abhang.github.io/abhangblog/images/Emoji-Teams.png" alt=""></a>
 
-Recently, Emojis have flooded everything, from messaging services to advertisements. Emojis are everywhere. Places where they did not exist, are not *updating* to include them. Emojis cover a byte size space, and yet express worth sentences at times. (Or do they?) 
+Recently, Emojis have flooded everything, from messaging services to <!--more-->advertisements. Emojis are everywhere. Places where they did not exist, are not *updating* to include them. Emojis cover a byte size space, and yet express worth sentences at times. (Or do they?) 
 
 ## Fake or real expression?
 
