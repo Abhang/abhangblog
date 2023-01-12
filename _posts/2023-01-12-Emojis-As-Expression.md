@@ -8,11 +8,10 @@ caption: 'Are we killing real expression?'
 # caption_url: ''
 ---
 
-
+Recently, Emojis have flooded everything, from messaging services to <!--more-->advertisements. Emojis are everywhere. Places where they did not exist, are not *updating* to include them. Emojis cover a byte size space, and yet express worth sentences at times. (Or do they?) 
 
 <a href="{{ "/" | absolute_url }}"><img class="center" src="https://abhang.github.io/abhangblog/images/Emoji-Teams.png" alt=""></a>
 
-Recently, Emojis have flooded everything, from messaging services to <!--more-->advertisements. Emojis are everywhere. Places where they did not exist, are not *updating* to include them. Emojis cover a byte size space, and yet express worth sentences at times. (Or do they?) 
 
 ## Fake or real expression?
 
@@ -22,6 +21,6 @@ Next time you type out a emoji, think, did you really express the emotion to con
 
 I have realized, many a times, I do not really feel a particular emotion, and yet I end up sending many emoticons. This action is usually a "Goodwill" gesture. The more I think of emojis being real or fake, the more confused I get. 
 	
-    • Isn't emoji just an extention for expressing when just text can't convey the expression enough?
+• Isn't emoji just an extention for expressing when just text can't convey the expression enough?
 
 [Send me your thoughts!](/contact/)
