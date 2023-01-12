@@ -1,9 +1,11 @@
 ---
-subheadline: 'Info'
-title: 'Why I designed *Simplicity*'
+subheadline: 'About'
+title: 'Who is Abhang Mehendale'
 permalink: /info/
 ---
-The idea behind *Simplicity* is to build a theme which is elegant, ver&shy;satile but still fast, without any clutter and the pur&shy;pose to make blogging and publishing as easy as possible.
+
+I am a management consultant focused on Supply Chain and Procurement. However, I do not want my profession to define me, rather, call me a chess geek, an avid reader, and someone who loves to stay away from social media. I also like travelling and talking to people anywhere anytime. (I know most street vendors outside local Dadar station in Mumbai)
+Contact me if you want to have a coffee together and chit chat over random topics!
 
 <!--more-->
 
