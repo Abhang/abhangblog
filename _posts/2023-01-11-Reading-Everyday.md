@@ -4,7 +4,7 @@ title : 'First Blog post'
 
 ## This is my first blog post on this website
 
-Hopefully, I realize that blogging everyday using this GitHub pull is very easy, and I am able to share my thoights with the world unlike **Creed (The office)**. 
+Hopefully, I realize that blogging everyday using this GitHub pull is very easy, and <!--more--> I am able to share my thoights with the world unlike **Creed (The office)**. 
 I am hoping to write every single day and keep it open for the world to read. Also, my aim is to have a lot of content churned out and increasing in quality every single day progressivly. 
 
 ## Why need a lot of content?
