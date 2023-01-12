@@ -7,6 +7,7 @@ title: 'Emojis as means to express'
 #caption: 'Are we killing real expression?'
 # caption_url: ''
 ---
+
 Recently, Emojis have flooded everything, from messaging services to <!--more-->advertisements. Emojis are everywhere. Places where they did not exist, are not *updating* to include them. Emojis cover a byte size space, and yet express worth sentences at times. (Or do they?) 
 
 
