@@ -25,9 +25,9 @@
 
 
 # Title and description of your site
-title         : 'Simplicity'
-description   : 'Simplicity is a fast and easy to use jekyll theme for minimalists concentrating on elegance and flexibility.'
-slogan        : 'A Minimalistic Jekyll Theme'
+title         : 'Abhang Mehendale'
+description   : 'Abhang's Hobby Website'
+slogan        : 'Lokking forward to creating value!'
 
 
 
@@ -64,7 +64,7 @@ excerpt_separator: <!--more-->   # Use <!--more--> in your posts to generate an 
 #  - legacy
 #  - yule
 
-color_scheme: gloom
+color_scheme: simplicity
 
 
 
