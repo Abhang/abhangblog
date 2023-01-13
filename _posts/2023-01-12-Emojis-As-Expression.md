@@ -6,13 +6,15 @@ title: 'Emojis as means to express'
 #
 #caption: 'Are we killing real expression?'
 # caption_url: ''
+# <a href="{{ "/" | absolute_url }}"><img class="center" src="https://abhang.github.io/abhangblog/images/Emoji-Teams.png" alt=""></a>
 ---
 
 Recently, Emojis have flooded everything, from messaging services to <!--more-->advertisements. Emojis are everywhere. Places where they did not exist, are not *updating* to include them. Emojis cover a byte size space, and yet express worth sentences at times. (Or do they?) 
 
 
-<a href="{{ "/" | absolute_url }}"><img class="center" src="https://abhang.github.io/abhangblog/images/Emoji-Teams.png" alt=""></a>
+![Are We Killing Real Expression?](https://abhang.github.io/abhangblog/images/Emoji-Teams.png)
 **Are we killing real expression?**
+![Are We Killing Real Expression?](/images/Emoji-Teams.png)
 
 ## Fake or real expression?
 
