@@ -12,9 +12,23 @@ title: 'Emojis as means to express'
 Recently, Emojis have flooded everything, from messaging services to <!--more-->advertisements. Emojis are everywhere. Places where they did not exist, are not *updating* to include them. Emojis cover a byte size space, and yet express worth sentences at times. (Or do they?) 
 
 
-![Are We Killing Real Expression?](https://abhang.github.io/abhangblog/images/Emoji-Teams.png)
-**Are we killing real expression?**
+
+> **Are we killing real expression?**
+
 ![Are We Killing Real Expression?](/images/Emoji-Teams.png)
+
+<details>
+<summary>Fake or real expression?</summary>
+
+Next time you type out a emoji, think, did you really express the emotion to convey in real world? Or it was there in the mind and did not make through? Or did you not feel it at all, but felt a social obligation to send one? 
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
 
 ## Fake or real expression?
 
