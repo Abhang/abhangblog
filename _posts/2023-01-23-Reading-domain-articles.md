@@ -25,9 +25,8 @@ Easiest way for me in my domain to be more knowledgable is to read more about Su
 
 It's simple! Just understand thorrowly. I was recently reading an article about [Party City filing Chapter 11](https://www.supplychaindive.com/news/party-city-bankruptcy-filings-detail-case/640836/). I wanted to know Chapter 11 better, so I googled and read about it from official US government website. It was very interesting. I learnt something new!
 
-![Reading](/images/reading-book.jpg)
 
-<img width = "200" class="left" src="/images/reading-book.jpg" alt="">
+<img width = "400" class="left" src="/images/reading-book.jpg" alt="">
 
 I truly believe that if you find something ineresting, you will do really well doing anything remotely related to the field. Chapter 11 is none of Supply Chain's business overall, but some of the terms do impact how companies act on Supply Chain when undergoing Chapter 11. 
 
