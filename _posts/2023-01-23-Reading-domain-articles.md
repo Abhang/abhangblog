@@ -27,6 +27,8 @@ It's simple! Just understand thorrowly. I was recently reading an article about 
 
 ![Reading](/images/reading-book.jpg)
 
+<img width = "200" class="left" src="/images/reading-book.jpg" alt="">
+
 I truly believe that if you find something ineresting, you will do really well doing anything remotely related to the field. Chapter 11 is none of Supply Chain's business overall, but some of the terms do impact how companies act on Supply Chain when undergoing Chapter 11. 
 
 > Always read new and interesting stuff! Read an article a day related to your work, and you will improve soo much over time!!
