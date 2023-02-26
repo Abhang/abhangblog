@@ -1,6 +1,6 @@
 ---
 title : 'When feeling like life is not going right'
-background : '/images/cluttered-mind.png'
+
 ---
 
 On a Tuesday afternoon, here I am, feeling uncomfortable. Why? I don't know. <!--more-->Just doesn't feel right. There is no problem in life, but time is not in my hands feels like. 
