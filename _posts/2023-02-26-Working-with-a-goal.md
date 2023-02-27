@@ -3,7 +3,7 @@ title : 'When you have a goal, but can't focus and work hard'
 
 ---
 
-I have had this goal for three years, and I am embarrassed that I still haven't ticked the checkbox.
+I have had this goal for three years, and <!--more-->I am embarrassed that I still haven't ticked the checkbox.
 
 # What Steps should I be taking?
 
