@@ -6,7 +6,7 @@
 # sitemap: false
 # permalink: /old-location/
  redirect_to:  "https://www.abha.ng"
-#
+link: /redirect/
 # Idea and Code by: http://codingtips.kanishkkunal.in/about/
 ---
 <!DOCTYPE html>
