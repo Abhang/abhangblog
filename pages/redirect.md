@@ -5,8 +5,8 @@
 layout: redirect
 sitemap: false
 permalink: /redirect.html
- redirect_to:  "https://www.abha.ng"
-link: /redirect/
+redirect_to:  "https://www.abha.ng"
+# link: /redirect/
 # Idea and Code by: http://codingtips.kanishkkunal.in/about/
 ---
 <!DOCTYPE html>
