@@ -2,9 +2,9 @@
 # This layout is used to redirect pages, if you moved them.
 # Use the following settings in front matter:
 #
-# layout: redirect
-# sitemap: false
-# permalink: /old-location/
+layout: redirect
+sitemap: false
+permalink: /redirect/
  redirect_to:  "https://www.abha.ng"
 link: /redirect/
 # Idea and Code by: http://codingtips.kanishkkunal.in/about/
