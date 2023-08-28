@@ -4,7 +4,7 @@
 #
 layout: redirect
 sitemap: false
-permalink: /redirect/
+permalink: /redirect.html
  redirect_to:  "https://www.abha.ng"
 link: /redirect/
 # Idea and Code by: http://codingtips.kanishkkunal.in/about/
