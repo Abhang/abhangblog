@@ -1,6 +1,6 @@
 ---
 subheadline: 'About'
-title: 'Who is Abhang Mehendale'
+title: 'Who is ASM'
 permalink: /info/
 ---
 
