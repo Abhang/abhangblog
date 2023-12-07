@@ -1,19 +1,20 @@
 ---
-title : 'Reading Supply Chain Articles'
+title : 'Reflecting on Life'
 ---
 
-Reading Supply Chain articles daily keeps me up-to-date with all the latest advancement and learnings <!--more-->in my domain of work.
+I spoke to a close friend of mine, for more than an hour, and<!--more--> it gave me a lot to think about.
 
-# Why read `"Work Stuff`" other than at work time?
+# How did I end up calling him?
 
-I used to believe that I want to limit my work between my work timings only, and no other time of the day will I ever think about work. It was not that I was of the opinion that work should not be more than the hours it is paying me for, but, I wanted to do my best in the hours that should be sufficient with my highest focus. I believe I could work with pin-point focus in the 8 hours, and make great progress. But that does not work!
+I woke up early,around 6.30 my time, and then spent some time working on a personal project, which requires me to look at the laptop screen, do some research, write some code etc. But I enjoy doing it, and I look forward to working on it in the morning when I am going to go sleep at night. 
+Today, when I woke up and was working on it, I felt like I had achieved my first goal in my current timeline, the more work I was putting in would simply not be that good an ROI. Should I stop and move on? Should I still keep working on it despite the fact that ROI has been achieved already?
 
-# Why does't limiting work to work-hours work?
+I felt some disconnect, and it got me thinking. I also started thinking about life in general, and am I truly enjoying my life? Maybe I am, looking at what is happening in Middle East,  people living in Gaza, I  think I am so much more fortunate, and living in a safe place. But, am I really making the most of the fortunate life? What do I enjoy? What would I enjoy today? My answer to my own self - Talking to good old friends whom I haven't connected in a long time. 
 
-Work these days is more than for earning money at the end of the month. If you work for earning money at the end of the month, you are probably not doing what you should be. If my passion is working in Supply Chain and I switch to software, I would definitely be trying to earn and not enjoy my eight working hours of the day. 
-I want work to be pervasive throughout your activities of the day. When I talk about Supply Chains, I am not talking about work at all. I am talking about my subject of interest, and it happens to be my full time profession. It is a hobby vis-a-vis my job!
+# How did it go?
 
-If you box your work to the eight hours, you are doing good to your personal life, but is it the best?
+Talking to old friends is one of the best things one can do (in my opinion). I reconnected with him, recollected some old memories that we had in undergrad, and then it began! This friend of mine is a story teller, writer, and a lot more. But more than anything, he is a caring friend. 
+Last time I had called, I had shared some difficulties I was facing in my life, and he politely asked me all the  updates, and then naratted a beautiful story to me which would help me make a few important decisions. He had written that story few days back.
 
 # Goal of Working: Why do you work? 
 
