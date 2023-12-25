@@ -9,11 +9,17 @@ I have an exam coming up, and I am scared of not performing<!--more--> upto my e
 Whenever I am not prepared about something, I tend to run away from it. I see myself running away from working on it. Now, I have GMAT in two days, and I am not able to function the way I would like myself to be. Let me think if there is a consultant's way of approaching this problem.
 
 > Identify the problem
+
 > What is the missing part of the puzzzle
+
 > Can we fix it? Yes or No?
+
 > If Yes, what is the strategy that needs to be followed,and how much time will it take? Do we have the time needed?
+
 > If No, then what best can be done? In the time available at hand?
+
 > Prepare the action plan.
+
 > Follow the action plan, reaccess in every two hours and plan the course of action. Do not get stuck in fear.
 
 # Why should one be not scared?
